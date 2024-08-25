@@ -1,0 +1,21 @@
+run:
+
+BankY System
+1. Create Account
+2. Deposit Funds
+3. Withdraw Funds
+4. Transfer Funds
+5. List All Accounts
+6. Exit
+Enter your choice (1-6): 5
+No accounts available.
+
+BankY System
+1. Create Account
+2. Deposit Funds
+3. Withdraw Funds
+4. Transfer Funds
+5. List All Accounts
+6. Exit
+Enter your choice (1-6): 1
+Enter account number: 
